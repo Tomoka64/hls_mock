@@ -1,0 +1,10 @@
+# The directory Mix will write compiled artifacts to.
+/_build/
+
+.idea
+
+hls_mock.iml
+
+test
+
+deps
